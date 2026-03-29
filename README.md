@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Satyam verma
 
-<!--
-**SatcrezXD/SatcrezXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Branch:** CSE (Gaming)  
+📅 **Year:** 2025 – 2029  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently exploring gaming devlopment and programming fundamentals  
+- 💻 Passionate about coding and technology  
+- 🤖 Interested in building intelligent systems  
+- 🎯 Goal: To become a skilled Gaming Developer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills (Learning)
+- Programming: Python, C,HTML  
+- Domains: AI, Machine Learning  
+- Tools: Git, GitHub  
+
+
+
+ *"Learning today, building tomorrow."*
